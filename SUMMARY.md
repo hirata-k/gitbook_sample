@@ -5,7 +5,8 @@
 ## テスト0001
 
 * [テストです。](tesuto0001/tesutodesu/README.md)
-  * [サブページ](tesuto0001/tesutodesu/sabupji.md)
+  * [サブページ](tesuto0001/tesutodesu/sabupji/README.md)
+    * [3段目](tesuto0001/tesutodesu/sabupji/3-duan-mu.md)
 
 ## テスト0002
 
