@@ -4,13 +4,13 @@
 
 == テスト0001
 
-* [テストです。](tesuto0001/tesutodesu/README.md)
-  * [サブページ](tesuto0001/tesutodesu/sabupji/README.md)
-    * [3段目](tesuto0001/tesutodesu/sabupji/3-duan-mu.md)
-    * [asciidoc](tesuto0001/tesutodesu/sabupji/test00002.adoc)
+* link:tesuto0001/tesutodesu/README.md[テストです。]
+  * link:tesuto0001/tesutodesu/sabupji/README.md[サブページ]
+    * link:tesuto0001/tesutodesu/sabupji/3-duan-mu.md[3段目]
+    * link:tesuto0001/tesutodesu/sabupji/test00002.adoc[asciidoc]
 
 == テスト0002
 
-* [テストです。](tesuto0002/tesutodesu/README.md)
-  * [サブページです。](tesuto0002/tesutodesu/sabupjidesu.md)
+* link:tesuto0002/tesutodesu/README.md[テストです。]
+  * link:tesuto0002/tesutodesu/sabupjidesu.md[サブページです。]
 
