@@ -10,5 +10,6 @@
 
 ## テスト0002
 
-* [テストです。](tesuto0002/tesutodesu.md)
+* [テストです。](tesuto0002/tesutodesu/README.md)
+  * [サブページです。](tesuto0002/tesutodesu/sabupjidesu.md)
 
