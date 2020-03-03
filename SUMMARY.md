@@ -7,6 +7,7 @@
 * [テストです。](tesuto0001/tesutodesu/README.md)
   * [サブページ](tesuto0001/tesutodesu/sabupji/README.md)
     * [3段目](tesuto0001/tesutodesu/sabupji/3-duan-mu.md)
+    * [asciidoc](tesuto0001/tesutodesu/sabupji/test00002.adoc)
 
 ## テスト0002
 
